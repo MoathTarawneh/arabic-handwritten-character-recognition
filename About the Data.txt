@@ -1,0 +1,7 @@
+1- Dataset name: Arabic MNIST, Arabic Handwritten Characters Dataset
+2- Number of Features: 1024
+3- Number of Instances: 16,800
+4- Target Column: Character
+5- The database is partitioned into two sets: a training set (13,440 characters to 480 images per class) and a test set (3,360 characters to 120 images per class).
+
+
